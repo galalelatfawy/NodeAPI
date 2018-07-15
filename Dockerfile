@@ -1,7 +1,5 @@
 FROM node
 
-LABEL maintainer="Yuttasak Pannawat <yuttasakcom@gmail.com>"
-
 RUN mkdir -p /app
 ADD package.json /app
 WORKDIR /app
