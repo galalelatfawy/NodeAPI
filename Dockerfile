@@ -1,4 +1,4 @@
-FROM node:6.10.3
+FROM node
 
 LABEL maintainer="Yuttasak Pannawat <yuttasakcom@gmail.com>"
 
